@@ -1,0 +1,56 @@
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\bin\Debug\BeeBreeding.exe.config
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\bin\Debug\BeeBreeding.exe
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\bin\Debug\BeeBreeding.pdb
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\obj\Debug\MainWindow.g.cs
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\obj\Debug\App.g.cs
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding_MarkupCompile.cache
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding_MarkupCompile.lref
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\obj\Debug\MainWindow.baml
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.g.resources
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.Properties.Resources.resources
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.exe
+C:\Users\HP\source\repos\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.pdb
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\bin\Debug\BeeBreeding.exe.config
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\bin\Debug\BeeBreeding.exe
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\bin\Debug\BeeBreeding.pdb
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding_MarkupCompile.cache
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding_MarkupCompile.lref
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.g.resources
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.Properties.Resources.resources
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.exe
+C:\Users\HP\Desktop\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.pdb
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\bin\Debug\BeeBreeding.exe.config
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\bin\Debug\BeeBreeding.exe
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\bin\Debug\BeeBreeding.pdb
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding_MarkupCompile.cache
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding_MarkupCompile.lref
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.g.resources
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.Properties.Resources.resources
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.exe
+C:\Users\HP\Desktop\SOFTWARE CODE'\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.pdb
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\bin\Debug\BeeBreeding.exe.config
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\bin\Debug\BeeBreeding.exe
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\bin\Debug\BeeBreeding.pdb
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.csprojAssemblyReference.cache
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\MainWindow.g.cs
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\App.g.cs
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding_MarkupCompile.cache
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding_MarkupCompile.lref
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\MainWindow.baml
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.g.resources
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.Properties.Resources.resources
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.csproj.GenerateResource.cache
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.exe
+C:\Users\alekh\OneDrive\Documents\BeeBreeding\BeeBreeding\BeeBreeding\BeeBreeding\obj\Debug\BeeBreeding.pdb
